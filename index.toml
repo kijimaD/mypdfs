@@ -1,0 +1,689 @@
+[20240311T213221070837339]
+  title = "2Dグラフィックスのしくみ-――図解でよくわかる画像処理技術のセオリー"
+  todo = "NONE"
+  tags = ["misc"]
+
+[20240311T213221080079018]
+  title = "高校数学+α:基礎と論理の物語"
+  todo = "NONE"
+  tags = ["misc"]
+
+[20240311T213221085004402]
+  title = "Linuxのしくみ-―実験と図解で学ぶOS、仮想マシン、コンテナの基礎知識"
+  todo = "NONE"
+  tags = ["linux"]
+
+[20240311T213221090810253]
+  title = "RISC-Vから学ぶC言語"
+  todo = "NONE"
+  tags = ["c", "cpu"]
+
+[20240311T213221109716767]
+  title = "TypeScriptとReact-Next.jsでつくる-実践Webアプリケーション開発"
+  todo = "NONE"
+  tags = ["typescript"]
+
+[20240311T213221120124855]
+  title = "The architecture of Open Source Applications"
+  todo = "NONE"
+  tags = ["misc"]
+
+[20240311T213221211438329]
+  title = "独習アセンブリ"
+  todo = "NONE"
+  tags = ["misc"]
+
+[20240311T213221242709381]
+  title = "詳説 正規表現 第3版"
+  todo = "NONE"
+  tags = ["misc"]
+
+[20240311T213222159797679]
+  title = "コーディングを支える技術"
+  todo = "NONE"
+  tags = ["misc"]
+
+[20240311T213222169273584]
+  title = "マスタリングTCP/IP入門編 第6版(for norimaking777@gmail.com)"
+  todo = "NONE"
+  tags = ["misc"]
+
+[20240311T213240885058555]
+  title = "単体テストの考え方／使い方"
+  todo = "NONE"
+  tags = ["misc"]
+
+[20240311T213241380241126]
+  title = "増補改訂版-図解でわかる-はじめてのデジタル画像処理"
+  todo = "NONE"
+  tags = ["misc"]
+
+[20240311T213251459004558]
+  title = "自作エミュレータで学ぶx86アーキテクチャ　コンピュータが動く仕組みを徹底理解！"
+  todo = "NONE"
+  tags = ["cpu"]
+
+[20240311T213251494477145]
+  title = "行列プログラマー: Linear Algebra through Computer Science Applications"
+  todo = "NONE"
+  tags = ["misc"]
+
+[20240311T220814550310491]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240311T220814574242083]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240311T220814586000830]
+  title = "コンピュータシステムの理論と実装"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240311T220814726189273]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240311T220814740840893]
+  title = "詳解 Linuxカーネル 第3版"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240311T221730542934059]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240311T221730551952216]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240311T221730643519095]
+  title = "Code Reading　プレミアムブックス版"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240311T221730783488029]
+  title = "Making Software"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240311T221730905136293]
+  title = "Googleのソフトウェアエンジニアリング"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240311T221731127407211]
+  title = "Kubernetesで実践するクラウドネイティブDevOps"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240311T221731275368545]
+  title = "Pro Git"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240311T221731382525111]
+  title = "Real World HTTP 第2版"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240311T221731499504630]
+  title = "Web API: The Good Parts"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240311T221731591282449]
+  title = "リファクタリング（第２版）"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240311T221731754224622]
+  title = "血と汗とピクセル：大ヒットゲーム開発者たちの激戦記"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005620182008613]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005620183423040]
+  title = "GoとSAMで学ぶAWS Lambda"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005620217918329]
+  title = "Goならわかるシステムプログラミング 第2版"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005620504458419]
+  title = "Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005620727645546]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005620784097520]
+  title = "Go言語でつくるインタプリタ"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005620976596183]
+  title = "Go言語によるWebアプリケーション開発"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005621073974029]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005621127774757]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005621182307341]
+  title = "Go言語による並行処理"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005621311719234]
+  title = "詳解 Go標準パッケージ"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005621337509954]
+  title = "はじめてのGoコード生成"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005621368748679]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005621377380470]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005621442742357]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005621451630347]
+  title = "実用 Go言語"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005621677269338]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T005621684487521]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T213953049225584]
+  title = "Raspberry Piをはじめよう 第4版"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T213953133646006]
+  title = "Rubyのしくみ：Ruby Under a Microscope"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T213953344382237]
+  title = "初めてのGraphQL"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T213953412536322]
+  title = "Hands-on Rust"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T213953583321181]
+  title = "Real World Haskell"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T213953732943789]
+  title = "Head First C"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T213953946400874]
+  title = "プログラミングScala"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T213954025965532]
+  title = "Reactハンズオンラーニング 第2版"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T213954123860118]
+  title = "プログラミングRust 第2版"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T213954539151962]
+  title = "SQLアンチパターン"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T213954673596978]
+  title = "すごいHaskellたのしく学ぼう"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T213954781880560]
+  title = "プログラミングClojure 第2版 "
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T214345905628954]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T214345917167891]
+  title = "Structure and Interpretation of Computer Programs, 2nd ed."
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T214346102365373]
+  title = "Land of Lisp"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240312T215104674088448]
+  title = "Mastering Emacs (日本語訳)"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240314T002523569457206]
+  title = "Binary Hacks"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240314T011949010445460]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240324T003140092912032]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240324T003140134655479]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240327T231950743765797]
+  title = "30日でできる！ OS自作入門"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240327T231950911507682]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240327T231950926581687]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240327T231950945081509]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240327T231950952220522]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240327T231950968932397]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240327T231951004392020]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240327T231951019815365]
+  title = "CPUの創りかた"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240327T231951168933626]
+  title = "Write Great Code Vol.1"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240327T231951233960344]
+  title = "ガベージコレクションのアルゴリズムと実装"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240327T231951349384069]
+  title = "プログラミングコンテストチャレンジブック [第2版]"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240327T231951424634176]
+  title = "プログラミングコンテスト攻略のためのアルゴリズムとデータ構造"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240327T231951565421675]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240327T231951660905702]
+  title = "´ðÁÃ¤«¤é¤ï¤«¤ëTCP/IP ¥Í¥Ã¥È¥ï¡¼¥¯¥³¥ó¥Ô¥å¡¼¥Æ¥£¥ó¥°ÆþÌç Âè3ÈÇ"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240327T234332984212121]
+  title = "32ビットコンピュータをやさしく語る はじめて読む486(for norimaking777@gmail.com)"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012403314918683]
+  title = "100 Go Mistakes and How to Avoid Them"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012403457484999]
+  title = "Advanced Algorithms and Data Structures"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012403659138649]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012403858816135]
+  title = "Building an Anonymization Pipeline"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012403921050388]
+  title = "Code Like a Pro in C#"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012404175109000]
+  title = "Communicating with Data"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012404260608601]
+  title = "CompTIA Security+: SY0-601 Certification Guide, Second Edition"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012404354289899]
+  title = "CompTIA Security+: SY0-601 Certification Guide, Second Edition"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012404477793192]
+  title = "CompTIA A+ Practice Tests Core 1 (220-1101) and Core 2 (220-1102)"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012404669537141]
+  title = "Cost-Effective Data Pipelines"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012404753728765]
+  title = "Data-Oriented Programming"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012404882656990]
+  title = "Data Algorithms with Spark"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012405036749614]
+  title = "Data Pipelines Pocket Reference"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012405115014937]
+  title = "Data Quality Engineering in Financial Services"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012405179427323]
+  title = "Data Science: The Hard Parts"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012405281080743]
+  title = "Deciphering Data Architectures"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012405378885175]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012405771078190]
+  title = "Designing Machine Learning Systems"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012405919826839]
+  title = "Five Lines of Code"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012406047926801]
+  title = "Football Analytics with Python & R"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012406168806589]
+  title = "Foundations of Scalable Systems"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012406276529287]
+  title = "Full Stack Python Security"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012406423122923]
+  title = "Good Code, Bad Code"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012406554158720]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012406696806131]
+  title = "grokking continuous delivery"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012407146317519]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012407275518145]
+  title = "Learn AI-Assisted Python Programming with GitHub Copilot and ChatGPT"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012407472859546]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012407771602672]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012407976699031]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012408109684666]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012408338300846]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012408422974155]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012408680541845]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012409017847917]
+  title = "Microsoft 365 Administrator MS-102 Exam Guide"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012409316376013]
+  title = "MongoDB: The Definitive Guide"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012409467937366]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012409704667167]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012409930128036]
+  title = "Practical Data Privacy"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012410059750618]
+  title = "Practices of the Python Pro"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012410154978019]
+  title = "Python Concurrency with asyncio"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012410252431776]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012410443627016]
+  title = "Python How-To"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012410592119266]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012410781460603]
+  title = "Regular Expression Puzzles and AI Coding Assistants"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012410880277235]
+  title = "Rust in Action"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012411057375414]
+  title = "Rust Servers, Services, and Apps"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012411160460368]
+  title = "Scaling Python with Ray"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012411287449511]
+  title = "Skills of a Successful Software Engineer"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012411347201476]
+  title = "Software Mistakes and Tradeoffs"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012411519786793]
+  title = "Street Coder"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012411587350508]
+  title = "Unity in Action, Third Edition"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T012411745957453]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240328T230642531011651]
+  title = "Effective Software Testing"
+  todo = "NONE"
+  tags = ["new"]
+
+[20240509T142352515207640]
+  title = "ユーザーストーリーマッピング"
+  todo = "NONE"
+  tags = ["new"]
