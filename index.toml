@@ -31,7 +31,7 @@
 [20240311T213221211438329]
   title = "独習アセンブリ"
   todo = "NONE"
-  tags = ["misc"]
+  tags = ["cpu"]
 
 [20240311T213221242709381]
   title = "詳説 正規表現 第3版"
@@ -44,9 +44,9 @@
   tags = ["misc"]
 
 [20240311T213222169273584]
-  title = "マスタリングTCP/IP入門編 第6版(for norimaking777@gmail.com)"
+  title = "マスタリングTCP/IP入門編 第6版"
   todo = "NONE"
-  tags = ["misc"]
+  tags = ["network"]
 
 [20240311T213240885058555]
   title = "単体テストの考え方／使い方"
@@ -131,7 +131,7 @@
 [20240311T221731382525111]
   title = "Real World HTTP 第2版"
   todo = "NONE"
-  tags = ["misc"]
+  tags = ["network"]
 
 [20240311T221731499504630]
   title = "Web API: The Good Parts"
@@ -321,7 +321,7 @@
 [20240314T002523569457206]
   title = "Binary Hacks"
   todo = "NONE"
-  tags = ["linux"]
+  tags = ["cpu"]
 
 [20240314T011949010445460]
   title = "はじめてのOSコードリーディング-――UNIX-V6で学ぶカーネルのしくみ"
@@ -341,7 +341,7 @@
 [20240327T231950743765797]
   title = "30日でできる！ OS自作入門"
   todo = "NONE"
-  tags = ["os"]
+  tags = ["linux"]
 
 [20240327T231950911507682]
   title = "ネットワークのしくみ"
@@ -406,12 +406,12 @@
 [20240327T231951660905702]
   title = "基礎からわかるTCP_IPネットワークコンピューティング入門第3版"
   todo = "NONE"
-  tags = ["misc"]
+  tags = ["network"]
 
 [20240327T234332984212121]
-  title = "32ビットコンピュータをやさしく語る はじめて読む486(for norimaking777@gmail.com)"
+  title = "32ビットコンピュータをやさしく語る はじめて読む486"
   todo = "NONE"
-  tags = ["misc"]
+  tags = ["cpu"]
 
 [20240328T012403314918683]
   title = "100 Go Mistakes and How to Avoid Them"
@@ -551,12 +551,12 @@
 [20240328T012407472859546]
   title = "Learn Wireshark"
   todo = "NONE"
-  tags = ["misc"]
+  tags = ["network"]
 
 [20240328T012407771602672]
   title = "Linux for Networking Specialist"
   todo = "NONE"
-  tags = ["misc"]
+  tags = ["network"]
 
 [20240328T012407976699031]
   title = "Mastering Palo Alto Networks"
@@ -591,7 +591,7 @@
 [20240328T012409316376013]
   title = "MongoDB: The Definitive Guide"
   todo = "NONE"
-  tags = ["misc"]
+  tags = ["db"]
 
 [20240328T012409467937366]
   title = "Network Automation Cookbook"
@@ -601,7 +601,7 @@
 [20240328T012409704667167]
   title = "Network Automation with Go"
   todo = "NONE"
-  tags = ["misc"]
+  tags = ["go"]
 
 [20240328T012409930128036]
   title = "Practical Data Privacy"
@@ -611,22 +611,22 @@
 [20240328T012410059750618]
   title = "Practices of the Python Pro"
   todo = "NONE"
-  tags = ["misc"]
+  tags = ["python"]
 
 [20240328T012410154978019]
   title = "Python Concurrency with asyncio"
   todo = "NONE"
-  tags = ["misc"]
+  tags = ["python"]
 
 [20240328T012410252431776]
   title = "Python for Security and Networking"
   todo = "NONE"
-  tags = ["misc"]
+  tags = ["python"]
 
 [20240328T012410443627016]
   title = "Python How-To"
   todo = "NONE"
-  tags = ["misc"]
+  tags = ["python"]
 
 [20240328T012410592119266]
   title = "Red Hat Certified Specialist"
@@ -641,7 +641,7 @@
 [20240328T012410880277235]
   title = "Rust in Action"
   todo = "NONE"
-  tags = ["misc"]
+  tags = ["rust"]
 
 [20240328T012411057375414]
   title = "Rust Servers, Services, and Apps"
@@ -651,7 +651,7 @@
 [20240328T012411160460368]
   title = "Scaling Python with Ray"
   todo = "NONE"
-  tags = ["misc"]
+  tags = ["python"]
 
 [20240328T012411287449511]
   title = "Skills of a Successful Software Engineer"
@@ -671,7 +671,7 @@
 [20240328T012411587350508]
   title = "Unity in Action, Third Edition"
   todo = "NONE"
-  tags = ["misc"]
+  tags = ["c#"]
 
 [20240328T012411745957453]
   title = "Zabbix 6 IT Infrastructure Monitoring Cookbook"
@@ -687,3 +687,8 @@
   title = "ユーザーストーリーマッピング"
   todo = "NONE"
   tags = ["misc"]
+
+[20240512T112553878117880]
+  title = "Linuxシステムプログラミング"
+  todo = "NONE"
+  tags = ["linux"]
