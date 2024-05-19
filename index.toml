@@ -692,3 +692,88 @@
   title = "Linuxシステムプログラミング"
   todo = "NONE"
   tags = ["linux"]
+
+[20240519T094121449195107]
+  title = "Building Modern CLI Applications in Go"
+  todo = "NONE"
+  tags = ["go"]
+
+[20240519T094121699535527]
+  title = "Domain-Driven Design with Golang"
+  todo = "NONE"
+  tags = ["go"]
+
+[20240519T094121812170837]
+  title = "Effective Concurrency in Go"
+  todo = "NONE"
+  tags = ["go"]
+
+[20240519T094121913251874]
+  title = "Event-Driven Architecture in Golang"
+  todo = "NONE"
+  tags = ["go"]
+
+[20240519T094122163748872]
+  title = "Functional Programming in Go"
+  todo = "NONE"
+  tags = ["go"]
+
+[20240519T094122314455838]
+  title = "Go Programming - From Beginner to Professional"
+  todo = "NONE"
+  tags = ["go"]
+
+[20240519T094122641140905]
+  title = "Go Programming Cookbook"
+  todo = "NONE"
+  tags = ["go"]
+
+[20240519T094122750925159]
+  title = "The GO Workshop"
+  todo = "NONE"
+  tags = ["go"]
+
+[20240519T094122957725773]
+  title = "gRPC Go for Professionals"
+  todo = "NONE"
+  tags = ["go"]
+
+[20240519T094123114884852]
+  title = "Hands-On High Performance with Go"
+  todo = "NONE"
+  tags = ["go"]
+
+[20240519T094123262824560]
+  title = "Hands-On Software Architecture with Golang"
+  todo = "NONE"
+  tags = ["go"]
+
+[20240519T094123410460951]
+  title = "Hands-On Software Engineering with Golang"
+  todo = "NONE"
+  tags = ["go"]
+
+[20240519T094123632578496]
+  title = "Hands-On System Programming with Go"
+  todo = "NONE"
+  tags = ["go"]
+
+[20240519T094123802399894]
+  title = "Learn Data Structures and Algorithms with Golang"
+  todo = "NONE"
+  tags = ["go"]
+
+[20240519T094123917538746]
+  title = "Mastering Go"
+  todo = "NONE"
+  tags = ["go"]
+
+[20240519T094124170284674]
+  title = "Microservices with Go"
+  todo = "NONE"
+  tags = ["go"]
+
+[20240519T094124316428183]
+  title = "Test-Driven Development in Go"
+  todo = "NONE"
+  tags = ["go"]
