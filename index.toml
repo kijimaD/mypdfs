@@ -777,3 +777,113 @@
   title = "Test-Driven Development in Go"
   todo = "NONE"
   tags = ["go"]
+
+[20240605T231504090908245]
+  title = "Architecting AWS with Terraform"
+  todo = "NONE"
+  tags = ["infra"]
+
+[20240605T231504267194578]
+  title = " Automating DevOps with GitLab CI/CD Pipelines"
+  todo = "NONE"
+  tags = ["infra"]
+
+[20240605T231504477011715]
+  title = "AWS Certified Security – Specialty (SCS-C02) Exam Guide"
+  todo = "NONE"
+  tags = ["infra"]
+
+[20240605T231504764958448]
+  title = "AWS Certified Solutions Architect – Professional Exam Guide (SAP-C02)"
+  todo = "NONE"
+  tags = ["infra"]
+
+[20240605T231504987794982]
+  title = "Azure Architecture Explained"
+  todo = "NONE"
+  tags = ["infra"]
+
+[20240605T231505188315776]
+  title = "Azure for Developers"
+  todo = "NONE"
+  tags = ["infra"]
+
+[20240605T231505494860776]
+  title = "Cloud Solution Architects Career Master Plan"
+  todo = "NONE"
+  tags = ["infra"]
+
+[20240605T231505586885590]
+  title = "The Docker Workshop"
+  todo = "NONE"
+  tags = ["docker"]
+
+[20240605T231505925722230]
+  title = "Efficient Cloud FinOps"
+  todo = "NONE"
+  tags = ["infra"]
+
+[20240605T231506187949395]
+  title = "Embracing DevOps Release Management"
+  todo = "NONE"
+  tags = [""]
+
+[20240605T231506376086696]
+  title = "Go for DevOps"
+  todo = "NONE"
+  tags = ["go"]
+
+[20240605T231506683140093]
+  title = "The Kubernetes Workshop"
+  todo = "NONE"
+  tags = ["kubernetes", "infra"]
+
+[20240605T231506867664406]
+  title = "Learning DevOps"
+  todo = "NONE"
+  tags = [""]
+
+[20240605T231507092625326]
+  title = "The Linux DevOps Handbook"
+  todo = "NONE"
+  tags = ["linux"]
+
+[20240605T231507282309759]
+  title = "Microssoft Azure Fundamentals Certification and Beyond"
+  todo = "NONE"
+  tags = ["infra"]
+
+[20240605T231507452750119]
+  title = "Microsoft Azure Fundamentals Certification and Beyond, Second Edition"
+  todo = "NONE"
+  tags = ["infra"]
+
+[20240605T231507605010042]
+  title = "Modern DevOps Practices"
+  todo = "NONE"
+  tags = [""]
+
+[20240605T231507935167767]
+  title = "Multi-Cloud Handbook for Developers"
+  todo = "NONE"
+  tags = ["infra"]
+
+[20240605T231508109579693]
+  title = "Observability with Grafana"
+  todo = "NONE"
+  tags = ["infra"]
+
+[20240605T231508294278445]
+  title = "Practical Ansible"
+  todo = "NONE"
+  tags = ["infra"]
+
+[20240605T231508495061457]
+  title = "The Self-Taught Cloud Computing Engineer"
+  todo = "NONE"
+  tags = ["infra"]
+
+[20240605T231508805065857]
+  title = "The Ultimate Docker Container Book"
+  todo = "NONE"
+  tags = ["docker"]
