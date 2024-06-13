@@ -887,3 +887,28 @@
   title = "The Ultimate Docker Container Book"
   todo = "NONE"
   tags = ["docker"]
+
+[20240613T203135520261250]
+  title = "C言語によるリアルタイム組み込みOS自作講座"
+  todo = "NONE"
+  tags = ["c", "cpu"]
+
+[20240613T203135533452322]
+  title = "実用Common Lisp"
+  todo = "NONE"
+  tags = ["lisp"]
+
+[20240613T203135553952384]
+  title = "モダン・ソフトウェア・エンジニアリング"
+  todo = "NONE"
+  tags = [""]
+
+[20240613T203135559757134]
+  title = "コンピュータアーキテクチャのエッセンス"
+  todo = "NONE"
+  tags = [""]
+
+[20240613T203135570039101]
+  title = "Windowsカーネルドライバプログラミング"
+  todo = "NONE"
+  tags = [""]
