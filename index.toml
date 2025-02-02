@@ -826,7 +826,7 @@
 [20240605T231506187949395]
   title = "Embracing DevOps Release Management"
   todo = "NONE"
-  tags = [""]
+  tags = []
 
 [20240605T231506376086696]
   title = "Go for DevOps"
@@ -841,7 +841,7 @@
 [20240605T231506867664406]
   title = "Learning DevOps"
   todo = "NONE"
-  tags = [""]
+  tags = []
 
 [20240605T231507092625326]
   title = "The Linux DevOps Handbook"
@@ -861,7 +861,7 @@
 [20240605T231507605010042]
   title = "Modern DevOps Practices"
   todo = "NONE"
-  tags = [""]
+  tags = []
 
 [20240605T231507935167767]
   title = "Multi-Cloud Handbook for Developers"
@@ -901,19 +901,139 @@
 [20240613T203135553952384]
   title = "モダン・ソフトウェア・エンジニアリング"
   todo = "NONE"
-  tags = [""]
+  tags = []
 
 [20240613T203135559757134]
   title = "コンピュータアーキテクチャのエッセンス"
   todo = "NONE"
-  tags = [""]
+  tags = []
 
 [20240613T203135570039101]
   title = "Windowsカーネルドライバプログラミング"
   todo = "NONE"
-  tags = [""]
+  tags = []
 
 [20240703T203227343812140]
   title = "ゼロから作るDeep Learning"
   todo = "NONE"
-  tags = [""]
+  tags = []
+
+[20240829T192814672435898]
+  title = "Friends-RISC-V.pdf"
+  todo = "NONE"
+  tags = []
+
+[20250202T100625911109358]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100626126533204]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100626293282356]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100626502407079]
+  title = "C# Data Structures and Algorithms"
+  todo = "NONE"
+  tags = []
+
+[20250202T100626707508621]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100626873134424]
+  title = "Dancing with Qubits, Second Edition"
+  todo = "NONE"
+  tags = []
+
+[20250202T100627075234366]
+  title = "Data Structures and Algorithms with the C++ STL"
+  todo = "NONE"
+  tags = []
+
+[20250202T100627333413162]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100627516044462]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100627803609801]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100627972015255]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100628026636704]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100628319483522]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100628672586842]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100628873050070]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100629045717548]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100629196480028]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100629399436239]
+  title = "n月刊ラムダノート 4-3-9-2024"
+  todo = "NONE"
+  tags = []
+
+[20250202T100629422790013]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100629721341245]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100629918471710]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100630093392432]
+  title = "PDF Title"
+  todo = "NONE"
+  tags = []
+
+[20250202T100630298879311]
+  title = "ピアリング戦記 ― 日本のインターネットを繋ぐ技術者たち"
+  todo = "NONE"
+  tags = []
