@@ -1,4 +1,14 @@
-[shelf](https://github.com/kijimaD/shelf)で生成したPDF本棚のメタ情報。PDF本体はプライベートな空間にある。
+所有PDFのメタ情報。PDF本体はプライベートな空間にある。
+
+## 起動
+
+```
+docker run -d --name mypdf-server \
+  --restart unless-stopped \
+  -p 8013:8000 \
+  -v $(pwd):/app/pdfs \
+  ghcr.io/kijimad/srd:main
+```
 
 ## Prepare
 
