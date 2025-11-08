@@ -3,10 +3,10 @@
 ## 起動
 
 ```
-docker run -d --name mypdf-server \
+docker run -d --name mypdfs-server \
   --restart unless-stopped \
   -p 8013:8000 \
-  -v $(pwd):/app/pdfs \
+  -v $(pwd):/pdfs \
   ghcr.io/kijimad/srd:main
 ```
 
